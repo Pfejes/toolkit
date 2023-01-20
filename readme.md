@@ -16,4 +16,4 @@ The included tools are:
 
 ## Installation
 
-`go get -u github.com/pfejes/toolbox`
+`go get -u github.com/pfejes/toolkit`
